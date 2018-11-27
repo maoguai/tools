@@ -7,4 +7,7 @@
 利用 python 读取 csv 表格
 
 # fix_symboltable
-修复二进制文件函数表
+在ida修复二进制文件函数表
+
+# sort_loop_depth
+在ida中搜索循环深度

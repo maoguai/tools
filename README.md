@@ -5,3 +5,6 @@
 
 # read_csv
 利用 python 读取 csv 表格
+
+# fix_symboltable
+修复二进制文件函数表

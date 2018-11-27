@@ -11,7 +11,7 @@ eaEnd =  + loadaddress
 ea = eaStart
 eaEnd = eaEnd
 
-while ea < eaEnd
+while ea < eaEnd：
   #循环遍历修复函数名
   offset = 0 
   MakeStr(Dword(ea - offset), BADADDR)

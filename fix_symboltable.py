@@ -2,7 +2,7 @@ from idaapi import *
 import time
 
 #固件加载地址
-loadaddress = 
+loadaddress = 0x80f0
 #符号表起始位置
 eaStart = + loadaddress
 #符号表结束位置

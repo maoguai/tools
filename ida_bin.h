@@ -9,7 +9,9 @@
    Copyright (c) 2007-2011 Hex-Rays
 
 */
-
+/*
+   ida_bin.h ida逆向常用宏
+*/
 #if defined(__GNUC__)
   typedef          long long ll;
   typedef unsigned long long ull;

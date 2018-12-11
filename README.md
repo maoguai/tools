@@ -17,3 +17,13 @@
 
 # ida_bin
 IDA逆向常用宏定义
+
+# sctest
+shell code test
+1） 读shellcode 二进制读到内存
+2）将装载shellcode内存的属性变成可执行
+3）跳到该shellcode执行
+使用方法：
+$ gcc -Wall -g -o sctest32 sctest.c -m32
+$ gcc -Wall -g -o sctest sctest.c
+$ ./sctest32 ../shell

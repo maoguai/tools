@@ -33,3 +33,6 @@ $ ./sctest32 ../shell
 使用方法：
 1）nasm -o bind bind.s 2）./sctest32 bind 3)打开一个新端终，通过网络与Shellcode打开的端口进行连接，然后获取Shellcode，通过cat /etc/passwd命令获取系统帐号信息：$ netcat localhost 43690
 cat /etc/passwd       
+
+#pattern
+shellcode中利用

@@ -36,3 +36,10 @@ cat /etc/passwd
 
 # pattern
 shellcode中利用查找内存错误地址
+
+# bruteforce
+暴力猜测密码
+
+# keyattack
+生成字典
+

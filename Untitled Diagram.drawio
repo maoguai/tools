@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T03:02:15.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="pJp2ld7eXMY0GNKugJtC" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T03:28:49.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fKOtf-gSMRq4kH2VlWOR" version="14.9.0" type="github">
   <diagram id="mNkNW7DxJy8o8GEZm2pJ" name="Page-1">
-    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-1" value="研究难点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-1" value="研究难点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-2" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="450" width="306" height="60" as="geometry" />
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-2" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-3" value="实现目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-3" value="实现目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="730" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-4" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;协议数据特征对变异策略的指导&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="560" width="120" height="120" as="geometry" />
@@ -22,23 +22,23 @@
         <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-6" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;从动态变化的回复报文中提取软件指纹&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="880" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-8" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-8" value="" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="560" width="306" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-9" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-9" value="" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="720" width="306" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-10" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-10" value="" style="whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="880" width="306" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-11" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;实现程序分支的绕过和基本块的覆盖&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="560" width="120" height="120" as="geometry" />
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-11" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;实现程序分支的绕过和基本块的覆盖&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="560" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-12" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px&quot;&gt;实现软件协议模块的多路径遍历和多类型回复报文触发&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="720" width="120" height="120" as="geometry" />
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-12" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;实现软件协议模块的多路径遍历和多类型回复报文触发&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="720" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;实现在不同场景下软件指纹提取&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="880" width="120" height="120" as="geometry" />
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-13" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;实现在不同场景下软件指纹提取&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="880" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-14" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;面向协议结构特征的探测载荷变异策略&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="560" width="300" height="25" as="geometry" />
@@ -55,11 +55,59 @@
         <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-19" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;dashed=1;arrowWidth=0.5;arrowSize=0.51;" vertex="1" parent="1">
           <mxGeometry x="361" y="840" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-20" value="提供测试用例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-20" value="&lt;font color=&quot;#cc0066&quot;&gt;提供测试用例&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="690" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-21" value="提供探测载荷与回复报文对" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-21" value="&lt;font color=&quot;#cc0066&quot;&gt;提供探测载荷与回复报文对&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="845" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2Uk9Cn3hnka5jhAX1Xb-23" target="v2Uk9Cn3hnka5jhAX1Xb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;分析协议&lt;br&gt;结构特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-24" value="&lt;font style=&quot;font-size: 16px&quot;&gt;结合协议特征的变异策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="395" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2Uk9Cn3hnka5jhAX1Xb-29" target="v2Uk9Cn3hnka5jhAX1Xb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-29" value="&lt;span style=&quot;font-size: 16px&quot;&gt;利用程序执行的基本块特征评估测试用例权重&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;根据测试用例权重分配不同队列&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="395" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-34" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="595" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-35" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="755" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-36" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="915" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-37" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="595" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-38" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="755" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-39" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="915" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2Uk9Cn3hnka5jhAX1Xb-40" target="v2Uk9Cn3hnka5jhAX1Xb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-40" value="&lt;span style=&quot;font-size: 16px&quot;&gt;提取软件协议指纹的有效特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-41" value="&lt;span style=&quot;font-size: 16px&quot;&gt;建立软件指纹的评估标准&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="395" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v2Uk9Cn3hnka5jhAX1Xb-50" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;工控软件探测载荷挖掘系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="110" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
